@@ -1,0 +1,22 @@
+{
+    "name": "abdelrahmangad/contact",
+    "description": "package sends an email and save records in database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abdelrahmangad\\Contact\\": "src/"
+        }
+    },
+    "autoload-dev": {
+      "Tests\\":"tests/"
+    },
+    "authors": [
+        {
+            "name": "abdelrahman azmy gad",
+            "email": "abdelrahmangad95@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
